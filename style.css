@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+}
+main {
+ background-color: darkkhaki;
+}
+.main {
+    background-color: snow;
+}
+
+head, main, footer {
+    width: 1200px;
+    margin: 0 auto;
+}
+h2 {
+    font-size: 36px;
+}
+section h2 {
+    color: darkgreen;
+}
+div h2 {
+    color: darkkhaki;
+}
